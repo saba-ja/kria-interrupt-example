@@ -1,0 +1,6 @@
+**/build
+.Xil
+*.jou
+vivado_*
+*.log
+
